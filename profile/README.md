@@ -12,4 +12,8 @@ _🔥🔥🔥 Anti Fraud && Telemarketing Scams_
 ---
 _Bio-Computing Platform Featuring Large-Scale Representation Learning and Multi-Task Deep Learning_
 
+[DecisionScience](https://github.com/paipai-Studio/DecisionScience)
+---
+_Decision Science🔬/决策科学_
+
 * 📮 Email: paipai@tangjt.cn
