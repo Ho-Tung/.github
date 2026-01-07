@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, there 👋
 
 This is `paipai` _(TangJin Tech > [paipai Studio](https://github.com/paipai-Studio))_.
 
@@ -13,3 +13,4 @@ _🔥🔥🔥 Anti Fraud && Telemarketing Scams_
 _Bio-Computing Platform Featuring Large-Scale Representation Learning and Multi-Task Deep Learning_
 
 * 📮 Email: paipai@tangjt.cn
+
