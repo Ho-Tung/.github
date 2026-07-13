@@ -1,4 +1,3 @@
-## Hi 👋
 
 [Anti-Fraud](https://github.com/paipai-Studio/Anti-Fraud)
 ---
