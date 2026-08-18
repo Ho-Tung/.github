@@ -16,6 +16,17 @@ _🔥🔥🔥 BioSeqs, MoonBit Bioinformatics Library_
 * 🔗 [https://gitlink.org.cn/IvanAXu/BioSeqs](https://gitlink.org.cn/IvanAXu/BioSeqs)
 * 📖 [https://mooncakes.io/docs/IvanAXu/BioSeqs](https://mooncakes.io/docs/IvanAXu/BioSeqs)
 
+[BlackBoxOptimization](https://github.com/paipai-Studio/BlackBoxOptimization)
+![release](https://img.shields.io/github/v/release/paipai-Studio/BlackBoxOptimization)
+![stars](https://img.shields.io/github/stars/paipai-Studio/BlackBoxOptimization)
+![forks](https://img.shields.io/github/forks/paipai-Studio/BlackBoxOptimization)
+---
+_🔥🔥🔥 Black Box Optimization by MoonBit_
+
+* 💻 [https://github.com/paipai-Studio/BlackBoxOptimization](https://github.com/paipai-Studio/BlackBoxOptimization)
+* 🔗 [https://gitlink.org.cn/IvanAXu/BlackBoxOptimization](https://gitlink.org.cn/IvanAXu/BlackBoxOptimization)
+* 📖 [https://mooncakes.io/docs/IvanAXu/BlackBoxOptimization](https://mooncakes.io/docs/IvanAXu/BlackBoxOptimization)
+
 [Paddle-NoteBook](https://github.com/paipai-Studio/Paddle-NoteBook)
 ---
 _The NoteBook by PaddlePaddle, [Visit](https://aistudio.baidu.com/personalcenter/thirdview/979775)_
